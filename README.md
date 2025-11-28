@@ -29,3 +29,16 @@ Wynikiem działania programu jest określenie, w której z **4 stref** znajduje 
 1. Uruchomienie programu:
    ```bash
    ./manometr_detector obraz.jpg
+
+2.Analiza obrazu i wykrycie wskazówki.
+
+3.Obliczenie kąta wskazówki.
+4.Podział tarczy:
+- Strefa 1: 0°–90°
+- Strefa 2: 90°–180°
+- Strefa 3: 180°–270°
+- Strefa 4: 270°–360°
+
+5. Wynik:
+```bash
+Wskazówka znajduje się w strefie: 2
